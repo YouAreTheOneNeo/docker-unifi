@@ -7,7 +7,7 @@ LABEL build_version="Linuxserver.io version:- ${VERSION} Build-date:- ${BUILD_DA
 LABEL maintainer="sparklyballs"
 
 # package versions
-ARG UNIFI_VER="5.10.19"
+ARG UNIFI_VER="5.10.20"
 
 # environment settings
 ARG DEBIAN_FRONTEND="noninteractive"
